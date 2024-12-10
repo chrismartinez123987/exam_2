@@ -9,7 +9,7 @@ export default function Page() {
         <input type="text" name="product" id="product" className="m-5 text-black 
         bg-yellow-400 "/>
          <br/>
-         <label for="cars">Choose a car:</label>
+         <label htmlFor="cars">Choose a car:</label>
 
 <select name="cars" className="mx-5" id="cars">
   <option value="volvo">Volvo</option>
