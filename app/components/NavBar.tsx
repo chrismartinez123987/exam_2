@@ -41,7 +41,9 @@ export default function NavBar() {
               <li>
                 <Link href="/nyctaxation">2024 NYC Taxation Table</Link>
               </li>
-       
+              <li>
+                <Link href="/final">Final</Link>
+              </li>
             </ul>
           </div>
         </div>
